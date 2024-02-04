@@ -1,0 +1,12 @@
+appId: org.rams7729.gatekeeperIoT
+productName: RW GateKeeper IoT
+copyright: Copyright © 2018-2024 VKV Koç Özel Lisesi FRC Kulübü
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
